@@ -1,3 +1,5 @@
+@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .logo {
 	display: inline-block;
 	margin-right: 50px;
@@ -12,6 +14,8 @@
 	margin-right: 22px;
 }
 .nav-a {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	line-height: 26px;
 	font-weight: bold;
 	font-size: 22px;
 	color:#3D58A6;
@@ -30,7 +34,9 @@
 	margin: 0 auto;
 }
 .articles {
-	font-size: 29px;
+	font-family: 'Roboto', sans-serif;
+	line-height: 29px;
+	font-size: 24px;
 	margin-bottom: 31px;
 }
 .left-block {
@@ -51,12 +57,20 @@
 	margin-right: 61px;
 }
 .text-block {
+	font-family: 'Roboto', sans-serif;
+	/*letter-spacing: 25px;*/
+	line-height: 24px;
+	font-size: 20px;
 	display: inline-block;
 	width: 355px;
 	vertical-align: top;
 }
 .article-title {
-	font-size: 27px;
+	font-family: 'Roboto', sans-serif;
+	line-height: 26px;
+	color: #3D58A6;
+	text-transform: uppercase;
+	font-size: 22px;
 	margin: 13px 20px;
 }
 
@@ -81,11 +95,16 @@
 	width: 1366px;
 }
 .left-block-contact {
+	font-family: "BPG Ingiri Arial", sans-serif;
+	line-height: 24px;
+	font-size: 16px;
 	display: inline-block;
 	vertical-align: top;
 	margin:0 55px 0 97px;
 }
 .contact-info {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	line-height: 24px;
 	font-size: 20px;
 	font-weight: bold;
 	color: #3D58A6
@@ -99,7 +118,6 @@
  height:466px;
 }
 
-
 /*news*/
 .news {
 	margin: 0 0 0 30px;
@@ -110,12 +128,16 @@
 	background-color: #3D58A6;
 	margin:40px 0 7px 0;
 	/*padding:25px;*/
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	line-height: 58px;
 	text-align: center;
 	vertical-align: middle;
 	font-size: 48px;
 	color: #fff;
 }
 .date-month {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	line-height: 26px;
 	font-size: 22px;
 	color:#3D58A6;
 	margin:0 0 22px 0;
@@ -125,6 +147,8 @@
 	display: inline-block;
 }
 .article-title {
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	line-height: 24px;
 	font-size: 20px;
 	margin:0 0 17px 0;
 }
@@ -135,6 +159,8 @@
 	margin-left: 38px;
 }
 .news-text {
+	font-family: "BPG Ingiri Arial", sans-serif;
+	line-height: 19px;
 	font-size: 16px;
 	margin-bottom: 20px;
 }

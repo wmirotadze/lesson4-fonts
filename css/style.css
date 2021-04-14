@@ -1,0 +1,140 @@
+.logo {
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: middle;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 22px;
+}
+.nav-a {
+	font-weight: bold;
+	font-size: 22px;
+	color:#3D58A6;
+}
+.active {
+	color:#EE4036;
+}
+
+/*start section-1*/
+.container1 {
+	width: 1170px;
+	margin: 77px auto 120px;
+}
+.container2 {
+	width: 1170px;
+	margin: 0 auto;
+}
+.articles {
+	font-size: 29px;
+	margin-bottom: 31px;
+}
+.left-block {
+	width: 570px;
+	background-color:#F2F2F2;
+	display: inline-block;
+	margin-right: 29px;
+	padding: 15px;
+}
+.right-block {
+	width: 570px;
+	background-color:#F2F2F2;
+	display: inline-block;
+	padding: 15px;
+}
+.image-block {
+	vertical-align: top;
+	margin-right: 61px;
+}
+.text-block {
+	display: inline-block;
+	width: 355px;
+	vertical-align: top;
+}
+.article-title {
+	font-size: 27px;
+	margin: 13px 20px;
+}
+
+/*footer styles*/
+.footer {
+	margin:68px 110px;
+}
+.divider {
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+	margin: 0 36px;
+}
+
+/*contact page styles*/
+.section-contact {
+	background-color: #E6E6E6;
+	padding:49px 0 55px 0;
+}
+.container-contact {
+	width: 1366px;
+}
+.left-block-contact {
+	display: inline-block;
+	vertical-align: top;
+	margin:0 55px 0 97px;
+}
+.contact-info {
+	font-size: 20px;
+	font-weight: bold;
+	color: #3D58A6
+}
+.right-block-contact {
+	display: inline-block;
+	vertical-align: top;
+}
+.map {
+ width:874px;
+ height:466px;
+}
+
+
+/*news*/
+.news {
+	margin: 0 0 0 30px;
+}
+.date {
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	margin:40px 0 7px 0;
+	/*padding:25px;*/
+	text-align: center;
+	vertical-align: middle;
+	font-size: 48px;
+	color: #fff;
+}
+.date-month {
+	font-size: 22px;
+	color:#3D58A6;
+	margin:0 0 22px 0;
+}
+.news-img {
+	vertical-align: top;
+	display: inline-block;
+}
+.article-title {
+	font-size: 20px;
+	margin:0 0 17px 0;
+}
+.article {
+	vertical-align: top;
+	width: 930px;
+	display: inline-block;
+	margin-left: 38px;
+}
+.news-text {
+	font-size: 16px;
+	margin-bottom: 20px;
+}
